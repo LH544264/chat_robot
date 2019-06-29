@@ -1,6 +1,10 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+'''
+文件描述：基于微信公众号实现AI客服
+'''
+
 import urllib.request
 import urllib.parse
 
