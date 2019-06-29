@@ -37,5 +37,5 @@ def get_robot_reply(question):
 #     print(get_robot_reply("你叫什么名字"))
 #     print(get_robot_reply("武汉明天天气如何"))
 
-while True:
-    print(get_robot_reply(input()))
+# while True:
+#     print(get_robot_reply(input()))
